@@ -1,10 +1,8 @@
 ---
 layout: post
-title: You're up and running!
+title: Bramble Tree Estate is now closed
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Bramble Tree Estate is now Empire Oaks Estate and is no longer booking weddings or other events. Instead, we are moving into a new season of life with a focus on homesteading and small-sclae farming.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+Follow along on our adventure at http://www.empireoaks.estate
