@@ -8,3 +8,4 @@ Bramble Tree Estate is now Empire Oaks Estate and is no longer booking weddings 
 ![Bramble Tree Estate]({{ site.baseurl }}/images/GR-6.jpg "Now Closed")
 
 Follow along on our adventure at <http://www.empireoaks.estate>
+<!--more-->
