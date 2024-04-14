@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Bramble Tree Estate is now closed
+excerpt_separator: <!--more-->
 ---
 
 Bramble Tree Estate is now Empire Oaks Estate and is no longer booking weddings or other events. Instead, we are moving into a new season of life with a focus on homesteading and small-scale farming.
